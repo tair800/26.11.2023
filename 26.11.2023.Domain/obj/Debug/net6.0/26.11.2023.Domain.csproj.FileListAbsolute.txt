@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\bin\Debug\net6.0\26.11.2023.Domain.deps.json
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\bin\Debug\net6.0\26.11.2023.Domain.dll
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\bin\Debug\net6.0\26.11.2023.Domain.pdb
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\obj\Debug\net6.0\26.11.2023.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\obj\Debug\net6.0\26.11.2023.Domain.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\obj\Debug\net6.0\26.11.2023.Domain.AssemblyInfo.cs
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\obj\Debug\net6.0\26.11.2023.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\obj\Debug\net6.0\26.11.2023.Domain.dll
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\obj\Debug\net6.0\refint\26.11.2023.Domain.dll
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\obj\Debug\net6.0\26.11.2023.Domain.pdb
+C:\Users\Owner\Desktop\26.11.2023\26.11.2023.Domain\obj\Debug\net6.0\ref\26.11.2023.Domain.dll
